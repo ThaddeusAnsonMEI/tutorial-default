@@ -33,7 +33,8 @@
       "ioValues": [
         {
           "name": "height",
-          "ioValue": 10
+          "ioValue": 13.5,
+          "currentEquation": "13.5"
         }
       ]
     }
