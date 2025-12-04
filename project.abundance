@@ -43,6 +43,11 @@
       "ap2Name": "geometry",
       "ap1ID": "id-4",
       "ap2ID": "id-31"
+    },
+    {
+      "ap2Name": "number or geometry",
+      "ap1ID": "id-31",
+      "ap2ID": "id-2"
     }
   ],
   "unitsKey": "MM",
